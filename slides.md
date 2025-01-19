@@ -18,6 +18,8 @@ Advanced concepts and practical applications
 
 Damodharan J | Zoho
 
+[Linkedin](https://www.linkedin.com/in/damojay/) | [Github](https://github.com/damodharanj) | [X.com](https://x.com/twitdamojay)
+
 ---
 layout: section
 ---
