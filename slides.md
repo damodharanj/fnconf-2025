@@ -313,3 +313,4 @@ class: text-center
 # Thank You!
 
 [PlayGround](http://ai-schema-lab.phaged.in/)
+[Github for Playground](https://github.com/damodharanj/structured-output)
